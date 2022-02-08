@@ -1,0 +1,13 @@
+name: StrangerHide
+description: Stranger Hide, your favourite hide and seek!
+author: Jielos
+
+version: 1.0
+api-version: 1.16
+depend: [Netherboard]
+main: fr.jielos.strangerhide.Main
+
+commands:
+  forcestart:
+    permission: strangerhide.forcestart
+    description: Forcing the game to start.
