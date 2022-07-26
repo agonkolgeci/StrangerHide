@@ -1,7 +1,8 @@
 ### **⚠️ Attention, ce projet ne subit plus de mise à jour depuis plus d'an.**
 
 # Stranger Hide
-Ce projet vous est mis a disposition dans une volonté de partage il est ainsi est publié sous **licence GNU GPL version 3**. Vous pouvez télécharger, modifier ou redistribuer — même commercialement — ce logiciel librement, tant que vous précisez les changements apportés et que vous redistribuez vos modifications sous la même licence (avec le code source), tant que vous préciser que votre travail est une reprise de ce projet. Pour plus de détails, référez-vous au [texte de licence](LICENCE).
+Ce projet vous est mis a disposition dans une volonté de partage il est ainsi est publié sous **licence GNU GPL version 3**. Vous pouvez télécharger, modifier ou redistribuer — même commercialement — ce logiciel librement, tant que vous précisez que votre travail est une reprise de ce projet. 
+Pour plus de détails, référez-vous au [texte de licence](LICENSE).
 
 ---
 - Nom: StrangerHide
